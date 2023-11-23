@@ -6,7 +6,7 @@ screen.setup(width=500, height=400)
 
 race_is_on = False
 user_bet = screen.textinput("Title Race Game", "Which turtle do you bet on? Choose a color.")
-colors = ["red", "orange", "black", "blue", "purple", "green"]
+colors = ["red", "orange", "black", "blue", "purple", "green", "coral"]
 y_positions = [-70, -40, -10, 20, 50, 80]
 
 all_turtles = []
